@@ -274,6 +274,7 @@ Indra Sonowal
 - [Brandon Maurice](https://github.com/bmaurice98)
 - [Tony]
 - [Anjia Cao]
+- [Hari Prakash](https://github.com/hariprakash619)
 - [David Meadows] (https://github.com/dmeadows8585)
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
